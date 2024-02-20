@@ -1,0 +1,8 @@
+Why are you interested in taking CMSC320?
+
+I am interested in taking CMSC320 because I want to learn more about data management systems. I do not know
+a lot about SQL or using Python, and I believe these will be valuable skills to know. 
+I am also interested in data visualization and hope we cover that this semester. During my internship this past summer
+we often worked with large data sets and when it took time to compress that data and create a Powerpoint, it was preferred
+that we make it easy to view and understandable by those who were not involved in the project. That is why I think learning how to condense
+data and turning it into a graph or another form of visualization would be extremely helpful in the workplace.
